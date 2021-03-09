@@ -1,8 +1,5 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Homework 1
- *  Description: Write a Java Program for calculating the area of a polygon of given number of sides and length of side. 
+ *  Description: A Java Program for calculating the area of a polygon of given number of sides and length of side
 */
 
 import java.util.Scanner;
